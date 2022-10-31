@@ -1,0 +1,2 @@
+This is a message for the go code to read from.
+Hopefully you'll see the contents output to the screen!
